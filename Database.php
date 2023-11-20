@@ -38,5 +38,5 @@ try {
 } catch (mysqli_sql_exception) {
     echo " Data is not register";
 }
-
+mysqli_close($conn);
 ?>

@@ -1,12 +1,4 @@
-<?php
-include("Database.php");
-require_once('./Database.php');
-// $fname= $_GET["FirstName"];
-// $lname= $_GET["LastName"];
-// $query = "SELECT * FROM `formcse309";
-// $result=mysqli_query($conn,$query);
 
-?>
 <!DOCTYPE html>
 <html lang="en">
 
